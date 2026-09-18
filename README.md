@@ -1,4 +1,4 @@
-👋# Hi! I’m Nandini Gupta
+# 👋 Hi! I’m Nandini Gupta
 
 # 💫 About Me:
 👩‍💻 I’m a 4th-year B.Tech Computer Science and Engineering student at GLA University, Mathura.<br><br>👩 Pronouns: She/Her<br><br>💻 I’m passionate about Software Development and Full-Stack Web Development, with a strong foundation in Java, Data Structures & Algorithms, and SQL.<br><br>🧑‍💻 My technical skills include Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Git and GitHub.<br><br>🌱  I’m also exploring AI/ML and Data Analytics through projects, internships, and continuous learning..<br><br>📫 How to reach me: nandini-gupta-9n | nandinigupta8354@gmail.com <br><br>🤝 Open to learning, collaboration, and software development opportunities. <br><br>⚡ Fun fact<br>I enjoy turning ideas into working projects and solving coding problems.
